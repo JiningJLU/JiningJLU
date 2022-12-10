@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jining
-- 👀 I’m interested in ...... I don't know? Maybe database? java?
-- 🌱 I’m currently learning java concurency programming
-- 💞️ I’m looking to collaborate on ...... nothing, hah.
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Golang TypeScript and C.
+- 💞️ I’m looking to collaborate on nothing. I don't like open-source.
 - 📫 How to reach me ? feel free to send e-mails to me. 862217083@qq.com or ningforg@gmail.com
 
 <!---
